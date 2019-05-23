@@ -1,0 +1,14 @@
+/ui/node_modules
+/ui/bundle.js
+/ui/npm-debug.log
+/ui/.DS_Store
+/ui/Artists
+/ui/audio
+/ui/images
+/ui/favicon.ico
+
+
+
+# IntelliJ
+*.iml
+ui/.idea
